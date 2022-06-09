@@ -1,4 +1,4 @@
-# Welcome to my Reddit Project
+# Welcome to my Twitter Project
 
 ## The APP is been Deployed to Vercel
 
